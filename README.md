@@ -13,3 +13,5 @@ Please cite this as:
 **Text, figures, and data :** 
 [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
 
+### Contact Information
+For more information, questions, or queries, please contact: 
